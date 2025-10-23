@@ -2,7 +2,12 @@
     <string name="app_name">QuestAdvanceLayout</string>
     <string name="prodi">Teknologi Informasi</string>
     <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
-    <string name="nama">Bambang Sumantri</string>
-    <string name="alamat">Turi, Sleman</string>
+    <string name="namaBox1">Blacky</string>
+    <string name="namaBox2">Poppy</string>
+    <string name="namaBox3">Mochi</string>
+    <string name="alamatBox1">Turi, Sleman</string>
+    <string name="alamatBox2">Depok, Sleman</string>
+    <string name="alamatBox3">Gamping, Sleman</string>
     <string name="copy">copyright, 2025</string>
+    <string name="telp">085436874190</string>
 </resources>
