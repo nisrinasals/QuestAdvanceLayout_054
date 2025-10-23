@@ -31,11 +31,11 @@ fun ActivitasPertama(modifier: Modifier){
         horizontalAlignment = Alignment.CenterHorizontally
         ){
         Text(stringResource(R.string.prodi),
-            fontsize = 35.sp,
+            fontSize = 35.sp,
             fontWeight = FontWeight.Bold)
         Text(stringResource(R.string.univ),
-            fontsize= 25.sp,
-            fontweight = FontWeight.Bold)
+            fontSize= 25.sp,
+            fontWeight = FontWeight.Bold)
         Spacer(modifier = Modifier.height(25.dp))
         Card(modifier = Modifier
             .fillMaxWidth(1f)
